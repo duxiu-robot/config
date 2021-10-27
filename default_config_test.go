@@ -9,7 +9,7 @@ import (
 
 	"github.com/stretchr/testify/assert"
 
-	"github.com/techxmind/go-utils/fileutil"
+	"github.com/duxiu-robot/go-utils/fileutil"
 )
 
 /*

@@ -9,7 +9,7 @@ import (
 
 	"github.com/go-redis/redis/v8"
 
-	"github.com/techxmind/go-utils/fileutil"
+	"github.com/duxiu-robot/go-utils/fileutil"
 )
 
 var (

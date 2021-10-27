@@ -11,7 +11,7 @@ import (
 	"github.com/pkg/errors"
 	"golang.org/x/sync/singleflight"
 
-	"github.com/techxmind/go-utils/object"
+	"github.com/duxiu-robot/go-utils/object"
 )
 
 var (

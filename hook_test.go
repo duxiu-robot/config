@@ -4,8 +4,8 @@ import (
 	"encoding/json"
 	"testing"
 
+	"github.com/duxiu-robot/go-utils/object"
 	"github.com/stretchr/testify/assert"
-	"github.com/techxmind/go-utils/object"
 )
 
 func testTrimJsonComment(t *testing.T) {

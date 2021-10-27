@@ -6,7 +6,7 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/techxmind/go-utils/object"
+	"github.com/duxiu-robot/go-utils/object"
 )
 
 func JSONToMap(rawMessage json.RawMessage) (map[string]interface{}, error) {

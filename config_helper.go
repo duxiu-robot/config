@@ -5,7 +5,7 @@ import (
 
 	"github.com/pkg/errors"
 
-	"github.com/techxmind/go-utils/itype"
+	"github.com/duxiu-robot/go-utils/itype"
 )
 
 type ConfigHelper struct {

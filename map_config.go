@@ -7,7 +7,7 @@ import (
 	"github.com/mohae/deepcopy"
 	"github.com/pkg/errors"
 
-	"github.com/techxmind/go-utils/object"
+	"github.com/duxiu-robot/go-utils/object"
 )
 
 type MapConfig struct {

@@ -1,7 +1,7 @@
 package config
 
 import (
-	_logger "github.com/techxmind/logger"
+	_logger "github.com/duxiu-robot/logger"
 )
 
 type Logger interface {
